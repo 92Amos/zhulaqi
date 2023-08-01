@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+   }
+ 
+ 
+    hr{
+     border-color: beige;
+     border-style: none;
+     border-top-style: dotted;
+     width: 4%;
+     border-width: 7px;
+   }
+
+   h1{
+    color: #071952;
+    font-style: italic;
+   }
+   h3{
+    color: #071952;
+    
+   }
+    
+   
